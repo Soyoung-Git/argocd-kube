@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: 
+      - image: soyounghub/docker-repo:42a40dc
         name: argocd-kube
